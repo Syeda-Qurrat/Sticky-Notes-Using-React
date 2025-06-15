@@ -19,3 +19,23 @@ A simple and responsive note-taking app built with **React**, **Tailwind CSS**, 
 git clone https://github.com/your-username/sticky-notes-app.git
 cd sticky-notes-app
 ```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the App
+
+```bash
+npm run dev
+```
+Open your browser and go to http://localhost:5173 (default Vite port).
+
+## 🛠️ Tech Stack
+- React
+
+- Vite
+
+- Tailwind CSS
